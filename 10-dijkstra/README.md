@@ -1,2 +1,2 @@
 # dijkstra {Result Image}
-![](./10-dijkstra결과.png)
+![](./10-dijksrta결과.png)
